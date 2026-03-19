@@ -17,7 +17,6 @@ Deep in agentic engineering — building systems where LLMs do real work, not de
 
 ## Current Projects
 
-- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, any OS, any platform
 - ⚙️ **Agent Skills** — Reusable, composable building blocks for agent pipelines
 - 📐 **Workflow Templates** — Task contracts, session orchestration patterns for reliable agents
 
@@ -37,7 +36,6 @@ Deep in agentic engineering — building systems where LLMs do real work, not de
 ## Connect
 
 - 𝕏 [@0XBrianXYZ](https://x.com/0XBrianXYZ)
-- 💬 Telegram: [@BruceZ09](https://t.me/BruceZ09)
 
 ---
 
