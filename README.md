@@ -1,27 +1,35 @@
 # Hi, I'm Brian Zhang 👋
 
-I build **AI agents, workflows, and skills** — practical tools that make LLMs actually useful in production.
-
-Based in Sydney 🇦🇺 · Focused on the agentic layer of AI.
+📍 Sydney, Australia &nbsp;|&nbsp; 🤖 Building AI agents & workflows &nbsp;|&nbsp; 🐦 [@0XBrianXYZ](https://x.com/0XBrianXYZ)
 
 ---
 
-## What I'm building
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI--first-333333?style=flat&logo=gnubash&logoColor=white)
 
-- 🤖 **AI Agents** — autonomous systems that do real work, not demos
-- ⚙️ **Workflows** — orchestration patterns for reliable multi-step agent tasks
-- 🛠️ **Skills** — reusable, composable building blocks for agent pipelines
-- 📐 **Harness design** — minimal, context-aware control layers for LLMs
+Deep in agentic engineering — building systems where LLMs do real work, not demos.
 
 ---
 
-## Philosophy
+## Current Projects
 
-> *Agent capability ceiling is determined by your engineering, not the number of tools you stack.*
+- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** — Personal AI assistant, any OS, any platform
+- ⚙️ **Agent Skills** — Reusable, composable building blocks for agent pipelines
+- 📐 **Workflow Templates** — Task contracts, session orchestration patterns for reliable agents
 
-- **Less is more** — lean context beats bloated configs
+---
+
+## Engineering Philosophy
+
+> *"Agent capability ceiling is determined by your engineering, not the number of tools you stack."*
+
+- **Less is more** — lean context beats bloated configs every time
+- **Separate research from implementation** — never mix them in one session
 - **Contracts over vibes** — explicit task contracts, not open-ended prompts
-- **Research before implementation** — always separate the two sessions
 - **Disposable sessions** — one contract, one session, done
 
 ---
@@ -33,4 +41,4 @@ Based in Sydney 🇦🇺 · Focused on the agentic layer of AI.
 
 ---
 
-*Always building. Occasionally shipping.*
+*Always building. Occasionally shipping.* 🚀
