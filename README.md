@@ -1,6 +1,6 @@
 # Hi, I'm Brian Zhang 👋
 
-📍 Sydney, Australia &nbsp;|&nbsp; 🤖 Building AI agents & workflows &nbsp;|&nbsp
+📍 Sydney, Australia &nbsp;|&nbsp; 🤖 Building AI agents & workflows &nbsp;
 
 ---
 
