@@ -33,10 +33,6 @@ Deep in agentic engineering — building systems where LLMs do real work, not de
 
 ---
 
-## Connect
 
-- 𝕏 [@0XBrianXYZ](https://x.com/0XBrianXYZ)
-
----
 
 *Always building. Occasionally shipping.* 🚀
